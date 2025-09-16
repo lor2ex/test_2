@@ -1,3 +1,6 @@
 #pics
 *.bmp
 *.jpg
+#folders
+
+test/
